@@ -26,7 +26,7 @@ SECRET_KEY = 'ysi_)@%2=)znlv(fm)&crh86sl=*8)tn6##eicgs%o=1jqzdy4'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'laurabunea.pythonanywhere.com/',
+    'laurabunea.pythonanywhere.com',
 ]
 
 
