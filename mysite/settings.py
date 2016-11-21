@@ -25,7 +25,9 @@ SECRET_KEY = 'ysi_)@%2=)znlv(fm)&crh86sl=*8)tn6##eicgs%o=1jqzdy4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://laurabunea.pythonanywhere.com/',
+]
 
 
 # Application definition
